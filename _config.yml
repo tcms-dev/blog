@@ -10,7 +10,7 @@ title: 腾讯TCMS团队
 email: thinkabouttcms@qq.com	
 description: > # this means to ignore newlines until "baseurl:"
  腾讯科技北京TCMS团队技术博客.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  tcms-dev
 # Build settings
